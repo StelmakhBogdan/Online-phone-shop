@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a2a70dd-506a-4dc3-bb39-75547f31a93d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/online-store/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/public/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/public/images/preloader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/public/images/trash_16x16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/public/uploads/51u6y9Rm8QL._SY300_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/public/uploads/Agnes_Case_for_Samsung_Galaxy_S6_(1)__92643_thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/public/uploads/Lumia1520-Front-Back-png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/public/uploads/_35 (1).JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/public/uploads/htc-one-m7-802w-dual-sim-silver.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/public/uploads/iphone5c-selection-hero-2013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/src/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/src/node_modules/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/src/node_modules/api/mock-categories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/src/node_modules/api/mock-phones.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/src/node_modules/components/basket-cart/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/src/node_modules/components/categories/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/src/node_modules/components/navbar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/src/node_modules/components/search/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/src/node_modules/components/sidebar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/src/node_modules/containers/basket/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/src/node_modules/containers/layout/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/src/node_modules/containers/phone/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/src/node_modules/containers/phones/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/src/node_modules/redux/action-types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/src/node_modules/redux/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/src/node_modules/redux/reducers/basket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/src/node_modules/redux/reducers/categories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/src/node_modules/redux/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/src/node_modules/redux/reducers/phone-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/src/node_modules/redux/reducers/phones-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/src/node_modules/redux/reducers/phones.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/src/node_modules/routes/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/src/node_modules/selectors/selectors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/online-store/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/online-store/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/online-store/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/online-store" />
+  </component>
+  <component name="ProjectId" id="1cwDV7jC3PabLJu7z0kt0o7thdt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\web-developer\js\React-and-Redux\online-store\online-store\src\node_modules\components" />
+      <recent name="D:\web-developer\js\React-and-Redux\online-store\online-store\src\node_modules\redux" />
+      <recent name="D:\web-developer\js\React-and-Redux\online-store\online-store\src\node_modules" />
+      <recent name="D:\web-developer\js\React-and-Redux\online-store\online-store\src" />
+      <recent name="D:\web-developer\js\React-and-Redux\online-store\online-store\public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a2a70dd-506a-4dc3-bb39-75547f31a93d" name="Default Changelist" comment="" />
+      <created>1591430782665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591430782665</updated>
+      <workItem from="1591430783865" duration="2878000" />
+      <workItem from="1591511443567" duration="1961000" />
+      <workItem from="1591775181709" duration="3175000" />
+      <workItem from="1591798229503" duration="4613000" />
+      <workItem from="1591937958779" duration="25755000" />
+      <workItem from="1592039313513" duration="594000" />
+      <workItem from="1592115756478" duration="11726000" />
+      <workItem from="1592149552171" duration="6453000" />
+      <workItem from="1592197963665" duration="10879000" />
+      <workItem from="1592209470179" duration="5781000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
